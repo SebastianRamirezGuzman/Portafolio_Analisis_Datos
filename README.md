@@ -21,6 +21,7 @@ Con el modelo de datos optimizado en SQL, creé un dashboard interactivo para id
 
 ### ⚙️ Modelo de Datos y Medidas DAX
 Se implementó un esquema de estrella para optimizar el rendimiento y se organizaron las medidas DAX para facilitar el mantenimiento.
+
 ![Modelo de Datos](./modelo_datos_dax.png)
 
 ### 💡 Hallazgos Clave
