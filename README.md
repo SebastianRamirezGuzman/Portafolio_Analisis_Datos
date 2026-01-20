@@ -1,4 +1,4 @@
-# 📊 Portafolio de Análisis de Datos: Mercado Inmobiliario USA
+# 📊 Proyecto de Análisis de Datos: Mercado Inmobiliario USA
 
 ¡Bienvenido! En este repositorio te presento un proyecto integral de Ingeniería y Análisis de Datos utilizando **SQL Server** y **Power BI**.
 
